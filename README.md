@@ -36,9 +36,7 @@ One notable outlier discovered are the 16 individuals with the title of "Junior"
 
 Before developing predictive models, I did a fundamental exploratory data analysis to see the relationship between salary and the other attributes. I hypothesized that years of experience, industry background would have the most significant correlation with salary, and all other features would be insignificant. However, the box plot and line graph below display different story. Salary is mostly predicated upon a person's position, degree, major, and the years of experience they have. Thus, the data support the basic notion that higher education and expertise yields a higher salary. 
 
-![jobtype](https://user-images.githubusercontent.com/58884061/77727632-f8144e00-6fb7-11ea-937d-25f7352fcba5.png)
-
-![yearsexperience](https://user-images.githubusercontent.com/58884061/77727650-05313d00-6fb8-11ea-8946-d15351406608.png)
+![Salarycombined](https://user-images.githubusercontent.com/58884061/77728482-d3b97100-6fb9-11ea-94e7-4c71f3e58bb7.PNG)
 
 ## Modeling
 
