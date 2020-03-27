@@ -68,3 +68,11 @@ Next, created and tuned each model, the models chosen were:
 
 The results are displayed in the image below, I excluded Pipeline because it yielded the same MSE as the baseline model. 
 
+![mse](https://user-images.githubusercontent.com/58884061/77728018-cd76c500-6fb8-11ea-98e7-f50dfedfff2a.png)
+
+The best preforming model, random forest, out preforms all models.  In attempting to make a more accurate model I added more trees in both gradient boost and random forest algorithms. The result did not develop a better MSE for either and continuing down that path would lead to overfilling. Sixty trees yielded the best result for random forest, and forty trees for gradient boot. Oddly, I assumed that GB would out preform RB due to its ability to learn from previous iterations; however, multiple randomized trees proved to be more accurate.  
+
+## Conclusion
+
+This project's greatest insight is that it supports the notion that getting a higher education, working hard and getting an executive position will yield a higher salary. And greatest factor to attaining a higher salary in any field of work is to many years of experience. In a future iteration of this project I would develop a more object-oriented approach that has more feature engineering to reduce the MSE. 
+
